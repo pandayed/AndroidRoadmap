@@ -15,6 +15,7 @@
 - EditText
 - Button
 - ImageView
+- View Binding
 - Acitivity (Lifecycle & Stack)
 - Radio Buttons
 - Chech boxes
@@ -41,3 +42,4 @@
 - MVC
 - MVP
 - MVVM
+### Some Popular Libraries
