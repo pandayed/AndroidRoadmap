@@ -2,13 +2,38 @@
 ### Programming Language (CPP/JAVA) - (Fundamentals, OOPS, STL/Collections)
 ### Kotlin
 - [Notes](https://github.com/xpandeyed/KotlinNotes)
-- YouTube Video Lectures - [Cheezy Code](https://www.youtube.com/playlist?list=PLRKyZvuMYSIMW3-rSOGCkPlO1z_IYJy3G)
+- YouTube Video Lectures by [Cheezy Code](https://www.youtube.com/playlist?list=PLRKyZvuMYSIMW3-rSOGCkPlO1z_IYJy3G)
+- Coroutines
 ### Fundamentals Components/Concepts
+- Layouts
+  * Linear
+  * Constraint
+  * Relative
+  * Frame
+  * Coordinate
+- TextView
+- EditText
+- Button
+- ImageView
+- Acitivity (Lifecycle & Stack)
+- Radio Buttons
+- Chech boxes
+- Toasts
+- Snackbars
+- Alert Dialog Boxes
 - Intents
 - Bundles
 - Menu
   * Options Menu
   * Context Menu
   * Popup Menu
-- Storage
-  * Shared Preferences
+- Web View
+### Complex Components
+- App bar/Tool Bar
+- Fragments
+- Bottom Navigation Bar
+- Navigation Drawer
+- Recycler View
+- Tab Layout
+### Storage
+- Shared Preferences
