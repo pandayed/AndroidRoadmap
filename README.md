@@ -13,6 +13,7 @@
   * Coordinate
 - TextView
 - EditText
+- Text Input Layout
 - Button
 - ImageView
 - View Binding
