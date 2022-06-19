@@ -10,3 +10,5 @@
   * Options Menu
   * Context Menu
   * Popup Menu
+- Storage
+  * Shared Preferences
