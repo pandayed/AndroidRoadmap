@@ -37,3 +37,7 @@
 - Tab Layout
 ### Storage
 - Shared Preferences
+### Architecture Patterns
+- MVC
+- MVP
+- MVVM
