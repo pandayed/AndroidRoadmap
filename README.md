@@ -44,3 +44,5 @@
 - MVP
 - MVVM
 ### Some Popular Libraries
+- [Picasso](https://github.com/square/picasso) - For image downloading and caching
+- [Volley](https://github.com/google/volley) - For processing and caching network requests
