@@ -20,6 +20,7 @@
 - Acitivity (Lifecycle & Stack)
 - Radio Buttons
 - Chech boxes
+- Context
 - Toasts
 - Snackbars
 - Spinners
@@ -39,7 +40,7 @@
 - Bottom Navigation Bar
 - Navigation Drawer
 - Recycler View
-- Tab Layout
+- Tab Layout & ViewPager
 ### Storage
 - Shared Preferences
 ### Architecture Patterns
