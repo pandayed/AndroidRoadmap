@@ -22,8 +22,11 @@
 - Chech boxes
 - Toasts
 - Snackbars
+- Spinners
 - Alert Dialog Boxes
 - Intents
+  * Explicit
+  * Implicit
 - Bundles
 - Menu
   * Options Menu
