@@ -41,6 +41,7 @@
 - Navigation Drawer
 - Recycler View
 - Tab Layout & ViewPager
+- Splash Screen
 ### Storage
 - Shared Preferences
 ### Architecture Patterns
