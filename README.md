@@ -38,7 +38,7 @@
 - Web View
 ### Complex Components
 - App bar/Tool Bar
-- Fragments
+- Fragments (Lifecycle & Manager)
 - Bottom Navigation Bar
 - Navigation Drawer
 - Recycler View
