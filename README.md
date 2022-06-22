@@ -1,5 +1,7 @@
 # Native Android Roadmap
 ### Programming Language (CPP/JAVA) - (Fundamentals, OOPS, STL/Collections)
+### Git and GitHub
+- [Learn Git Branching](https://learngitbranching.js.org/)
 ### Kotlin
 - [Notes](https://github.com/xpandeyed/KotlinNotes)
 - YouTube Video Lectures by [Cheezy Code](https://www.youtube.com/playlist?list=PLRKyZvuMYSIMW3-rSOGCkPlO1z_IYJy3G)
@@ -41,6 +43,7 @@
 - Navigation Drawer
 - Recycler View
 - Tab Layout & ViewPager
+- Search View
 - Splash Screen
 ### Storage
 - Shared Preferences
@@ -51,3 +54,4 @@
 ### Some Popular Libraries
 - [Picasso](https://github.com/square/picasso) - For image downloading and caching
 - [Volley](https://github.com/google/volley) - For processing and caching network requests
+- [Glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
