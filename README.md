@@ -40,6 +40,7 @@
   * Options Menu
   * Context Menu
   * Popup Menu
+- Progress Bar
 - Web View
 ### Complex Components
 - App bar/Tool Bar
