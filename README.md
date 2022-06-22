@@ -25,6 +25,8 @@
 - Acitivity (Lifecycle & Stack)
 - Radio Buttons
 - Chech boxes
+- Switch
+- Scroll View
 - Context
 - Toasts
 - Snackbars
@@ -41,6 +43,7 @@
   * Context Menu
   * Popup Menu
 - Progress Bar
+- Seek Bar
 - Web View
 ### Complex Components
 - App bar/Tool Bar
