@@ -7,6 +7,9 @@
 - YouTube Video Lectures by [Cheezy Code](https://www.youtube.com/playlist?list=PLRKyZvuMYSIMW3-rSOGCkPlO1z_IYJy3G)
 - Coroutines
 ### Fundamentals Components/Concepts
+- Important files/directories
+  * Manifest
+  * Gradle
 - Layouts
   * Linear
   * Constraint
