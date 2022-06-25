@@ -66,3 +66,5 @@
 - [Volley](https://github.com/google/volley) - For processing and caching network requests
 - [Glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
 - [Retrofit](https://square.github.io/retrofit/) - A type-safe HTTP client for Android
+### Some Useful Resources
+- [Android Arsenal](https://android-arsenal.com/) - Find tools, apps and libraries
