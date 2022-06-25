@@ -44,6 +44,7 @@
   * Popup Menu
 - Progress Bar
 - Seek Bar
+- Bottom Sheets
 - Web View
 ### Complex Components
 - App bar/Tool Bar
