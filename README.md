@@ -67,6 +67,8 @@
 - [Glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
 - [Retrofit](https://square.github.io/retrofit/) - A type-safe HTTP client for Android
 ### ShortCuts
-- Format XML: Ctrl+Alt+L
+- Format XML - Ctrl+Alt+L
+- Searh Files - Ctrl+Shift+N
+- Search in project - Double Shift or Ctrl+F
 ### Some Useful Resources
 - [Android Arsenal](https://android-arsenal.com/) - Find tools, apps and libraries
