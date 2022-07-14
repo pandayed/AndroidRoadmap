@@ -50,6 +50,8 @@
 - App bar/Tool Bar
 - Fragments (Lifecycle & Manager)
 - Bottom Navigation Bar
+- Navigation Graph
+- Fragment Container View
 - Navigation Drawer
 - Recycler View
 - Tab Layout & ViewPager
