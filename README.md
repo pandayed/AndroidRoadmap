@@ -62,7 +62,7 @@
 ### Firebase
 - Authentication
 - Realtime Database
-  * Use case 1: If you want to update the data shown in app without updating your app, store and fetch data in/from firebase realtime database.
+  * Use case 1: If you want to update the data shown in app without updating your app, store/fetch data in/from firebase realtime database.
 ### Architecture Patterns
 - MVC
 - MVP
