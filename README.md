@@ -76,5 +76,8 @@
 - Format XML - Ctrl+Alt+L
 - Searh Files - Ctrl+Shift+N
 - Search in project - Double Shift or Ctrl+F
+### Minor Project Ideas
+- Todo
+- Calculator
 ### Some Useful Resources
 - [Android Arsenal](https://android-arsenal.com/) - Find tools, apps and libraries
