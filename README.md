@@ -9,6 +9,8 @@
 - YouTube Video Lectures by [Cheezy Code](https://www.youtube.com/playlist?list=PLRKyZvuMYSIMW3-rSOGCkPlO1z_IYJy3G)
 - Coroutines
 ### Fundamentals Components/Concepts
+[Material Design Components](https://material.io/components?platform=android)
+[Material Tutorials (Java and Kotlin)](https://material.io/develop/android)
 - Important files/directories
   * Manifest
   * Gradle
