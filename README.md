@@ -78,8 +78,15 @@
 - Format XML - Ctrl+Alt+L
 - Searh Files - Ctrl+Shift+N
 - Search in project - Double Shift or Ctrl+F
-### Minor Project Ideas
+### Project Ideas
 - Todo
 - Calculator
+- Music Player App
+- File Manager App
+- Chatting App
+- Fitness App
+- Notes App
+- Quiz App
+- LIVE Video Streaming App
 ### Some Useful Resources
 - [Android Arsenal](https://android-arsenal.com/) - Find tools, apps and libraries
