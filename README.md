@@ -66,6 +66,9 @@
 - Splash Screen
 ### Storage
 - Shared Preferences
+### Google APIs
+- [Google Play In-App Reviews](https://developer.android.com/guide/playcore/in-app-review)
+- [Google Play's billing system](https://developer.android.com/distribute/play-billing)
 ### Firebase
 - Authentication
 - Realtime Database
