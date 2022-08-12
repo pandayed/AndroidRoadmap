@@ -79,7 +79,8 @@
 ### ShortCuts
 - Format XML - Ctrl+Alt+L
 - Searh Files - Ctrl+Shift+N
-- Search in project - Double Shift or Ctrl+F
+- Find in Files - Ctrl+Shift+F
+- Search Anything (Class, File, Git etc) - Double Shift
 ### Project Ideas
 - Todo
 - Calculator
