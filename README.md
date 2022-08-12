@@ -72,7 +72,6 @@
 ### Firebase
 - Authentication
 - Realtime Database
-  * Use case 1: Update the data shown in app without updating your app.
 ### Architecture Patterns
 - MVC
 - MVP
