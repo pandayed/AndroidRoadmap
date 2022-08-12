@@ -1,5 +1,8 @@
 # Native Android Roadmap / Resources
 ### Programming Language (CPP/JAVA) - (Fundamentals, OOPS, STL/Collections)
+### Why Native Android/ Why Kotlin?
+- [Android's Kotlin-first approach](https://developer.android.com/kotlin/first)
+- [Android's commitment to Kotlin](https://android-developers.googleblog.com/2019/12/androids-commitment-to-kotlin.html)
 ### Books
 - [Books by Raywenderlich](https://www.raywenderlich.com/android/books)
 ### Git and GitHub
