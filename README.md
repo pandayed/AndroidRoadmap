@@ -14,6 +14,9 @@
 ### Fundamentals Components/Concepts
 [Material Design Components](https://material.io/components?platform=android)  
 [Material Tutorials (Java and Kotlin)](https://material.io/develop/android)
+- Units
+  * dp (for components)
+  * sp (for text)
 - Important files/directories
   * Manifest
   * Gradle
