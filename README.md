@@ -6,8 +6,9 @@
 
 - [Android's Kotlin-first approach](https://developer.android.com/kotlin/first)
 - [Android's commitment to Kotlin](https://android-developers.googleblog.com/2019/12/androids-commitment-to-kotlin.html)
-### Books
+### Books and Self-Learning Resources
 - [Books by Raywenderlich](https://www.raywenderlich.com/android/books)
+- [Teach Android Development](https://developer.android.com/teach)
 ### Git and GitHub
 - [Learn Git Branching](https://learngitbranching.js.org/)
 ### Kotlin
