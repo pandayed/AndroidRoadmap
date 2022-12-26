@@ -80,6 +80,7 @@
 - Authentication
 - Realtime Database
 ### Patterns
+[Guide to app architecture](https://developer.android.com/topic/architecture)
 - MVC
 - MVP
 - MVVM
