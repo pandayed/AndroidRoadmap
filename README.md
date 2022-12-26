@@ -79,10 +79,11 @@
 ### Firebase
 - Authentication
 - Realtime Database
-### Architecture Patterns
+### Patterns
 - MVC
 - MVP
 - MVVM
+- [Repository Pattern](https://developer.android.com/codelabs/basic-android-kotlin-training-repository-pattern)
 ### Some Popular Libraries
 - [Picasso](https://github.com/square/picasso) - For image downloading and caching
 - [Volley](https://github.com/google/volley) - For processing and caching network requests
