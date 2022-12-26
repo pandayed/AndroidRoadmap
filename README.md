@@ -84,6 +84,11 @@
 - MVC
 - MVP
 - MVVM
+  * Model
+  * View
+  * ViewModel
+  * ViewModel Factory
+  * LiveData
 - [Repository Pattern](https://developer.android.com/codelabs/basic-android-kotlin-training-repository-pattern)
 ### Some Popular Libraries
 - [Picasso](https://github.com/square/picasso) - For image downloading and caching
