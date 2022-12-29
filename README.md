@@ -3,18 +3,17 @@
 # Native Android Roadmap / Resources
 ### Programming Language (CPP/JAVA) - (Fundamentals, OOPS, STL/Collections)
 ### Why Native Android/ Why Kotlin?
-
 - [Android's Kotlin-first approach](https://developer.android.com/kotlin/first)
 - [Android's commitment to Kotlin](https://android-developers.googleblog.com/2019/12/androids-commitment-to-kotlin.html)
-### Books and Self-Learning Resources
+### Books and Learning Resources
 - [Books by Raywenderlich](https://www.raywenderlich.com/android/books)
-- [Teach Android Development](https://developer.android.com/teach)
+- [Android Development Resources for Teachers](https://developer.android.com/teach)
 ### Git and GitHub
 - [Learn Git Branching](https://learngitbranching.js.org/)
 ### Kotlin
 - [Notes](https://github.com/xpandeyed/KotlinNotes)
 - YouTube Video Lectures by [Cheezy Code](https://www.youtube.com/playlist?list=PLRKyZvuMYSIMW3-rSOGCkPlO1z_IYJy3G)
-- Coroutines
+- [Coroutines](https://www.youtube.com/watch?v=lmRzRKIsn1g)
 ### Fundamentals Components/Concepts
 [Material Design Components](https://material.io/components?platform=android)  
 [Material Tutorials (Java and Kotlin)](https://material.io/develop/android)
@@ -91,6 +90,8 @@
   * LiveData
   * Data Binding
 - [Repository Pattern](https://developer.android.com/codelabs/basic-android-kotlin-training-repository-pattern)
+- [Dagger](https://youtube.com/playlist?list=PLRKyZvuMYSIPwjYw1bt_7u7nEwe6vATQd)
+- Hilt
 ### Some Popular Libraries
 - [Picasso](https://github.com/square/picasso) - For image downloading and caching
 - [Volley](https://github.com/google/volley) - For processing and caching network requests
