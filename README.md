@@ -90,8 +90,7 @@
   * LiveData
   * Data Binding
 - [Repository Pattern](https://developer.android.com/codelabs/basic-android-kotlin-training-repository-pattern)
-- [Dagger](https://youtube.com/playlist?list=PLRKyZvuMYSIPwjYw1bt_7u7nEwe6vATQd)
-- Hilt
+- [Dependency Injection](https://github.com/xpandeyed/AndroidRoadmap/blob/main/Dagger.md)
 ### Some Popular Libraries
 - [Picasso](https://github.com/square/picasso) - For image downloading and caching
 - [Volley](https://github.com/google/volley) - For processing and caching network requests
