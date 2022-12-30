@@ -12,7 +12,7 @@
 - [Learn Git Branching](https://learngitbranching.js.org/)
 ### Kotlin
 - [Notes](https://github.com/xpandeyed/KotlinNotes)
-- YouTube Video Lectures by [Cheezy Code](https://www.youtube.com/playlist?list=PLRKyZvuMYSIMW3-rSOGCkPlO1z_IYJy3G)
+- [YouTube Video Lectures by Cheezy Code](https://www.youtube.com/playlist?list=PLRKyZvuMYSIMW3-rSOGCkPlO1z_IYJy3G)
 - [Coroutines](https://www.youtube.com/watch?v=lmRzRKIsn1g)
 ### [Fundamentals Components/Concepts](https://github.com/xpandeyed/AndroidRoadmap/blob/main/Components.md)
 
