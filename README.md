@@ -71,6 +71,6 @@
 - LIVE Video Streaming App
 ### Some Useful Resources
 - [Android Arsenal](https://android-arsenal.com/) - Find tools, apps and libraries
-
+- [Now in Android](https://play.google.com/store/apps/details?id=com.google.samples.apps.nowinandroid) - For regular updates about Android and much more
 # Jetpack
 [State](https://medium.com/@takahirom/jetpack-compose-state-guideline-494d467b6e76)
