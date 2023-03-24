@@ -15,6 +15,7 @@
 - [YouTube Video Lectures by Cheezy Code](https://www.youtube.com/playlist?list=PLRKyZvuMYSIMW3-rSOGCkPlO1z_IYJy3G)
 - [Coroutines](https://www.youtube.com/watch?v=lmRzRKIsn1g)
 ### [Fundamentals Components/Concepts](https://github.com/xpandeyed/AndroidRoadmap/blob/main/Components.md)
+- [Android Fundamentals for Beginners by Philipp Lackner](https://youtube.com/playlist?list=PLQkwcJG4YTCTq1raTb5iMuxnEB06J1VHX)
 
 ### Complex Components
 - App bar/Tool Bar
